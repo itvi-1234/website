@@ -11,7 +11,7 @@ title: Installation
 2. Search for **Kmesh** and click **Install**.
 3. Click **Reload UI** to activate the Kmesh sidebar section.
 
-<!-- TODO: add screenshots of the Plugin Catalog install flow -->
+![Kmesh plugin in the Headlamp Plugin Catalog](https://github.com/user-attachments/assets/c230ec3b-f065-464f-91fc-99e8bfbd61e3)
 
 ## From Source
 
